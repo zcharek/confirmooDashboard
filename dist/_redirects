@@ -1,0 +1,2 @@
+# Redirections pour l'API Qase (pour éviter les problèmes CORS)
+/api/qase/* https://api.qase.io/v1/:splat 200
